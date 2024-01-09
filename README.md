@@ -21,7 +21,7 @@ To install `EZ_Colors`, follow these steps:
     cd EZ_Colors
 
 
-3. **Install the Package**
+3. **Install the Package**:
 
     pip install .
 
