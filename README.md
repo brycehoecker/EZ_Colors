@@ -44,10 +44,18 @@ print(blue("This is blue text"))
 print(b_red("This is bright red text"))
 print(true_color("This is true colored text", 255, 0, 0))  # Example of true color (red)
 ```
+## Features
 
-#Features
+- Standard colors: 
+  <span style="color: red;">red</span>, 
+  <span style="color: green;">green</span>, 
+  <span style="color: blue;">blue</span>, etc.
 
-    Standard colors: red, green, blue, etc.
-    Bright colors: b_red, b_green, b_blue, etc.
-    256 colors support.
-    True color (24-bit) support.
+- Bright colors: 
+  <span style="color: red;">b_red</span>, 
+  <span style="color: green;">b_green</span>, 
+  <span style="color: blue;">b_blue</span>, etc.
+
+- 256 colors support.
+- True color (24-bit) support.
+
