@@ -13,22 +13,22 @@ To install `EZ_Colors`, follow these steps:
 
 1. **Clone the Repository**
 
-git clone this-repository
+    git clone this-repository
 
 
 2. **Navigate to the Repository Directory**
 
-cd EZ_Colors
+    cd EZ_Colors
 
 
 3. **Install the Package**
 
-pip install .
+    pip install .
 
 
 Use `sudo` if you need to install the package system-wide (requires administrator privileges):
 
-sudo pip install .
+    sudo pip install .
 
 
 ## Usage
