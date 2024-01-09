@@ -13,7 +13,7 @@ To install `EZ_Colors`, follow these steps:
 
 1. **Clone the Repository**
 
-    git clone this-repository
+    git clone https://github.com/brycehoecker/EZ_Colors.git
 
 
 2. **Navigate to the Repository Directory**
