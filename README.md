@@ -59,6 +59,9 @@ print(true_color("This is true colored text", 255, 0, 0))  # Example of true col
   <span style="color: green;">b_green</span>, 
   <span style="color: blue;">b_blue</span>, etc.
 
+![Features Image](/colors.jpg)
+
+
 - 256 colors support.
 - True color (24-bit) support.
 
